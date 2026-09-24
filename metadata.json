@@ -1,0 +1,6 @@
+{
+  "name": "Propaganda Analyzer - Fine-Grained AI Rhetorical Detection",
+  "description": "Research-oriented fine-grained propaganda detection and technique classification system based on SemEval-2020 Task 11 with span-level LLM and baseline analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
